@@ -1,5 +1,5 @@
 sample:
   properties:
-    max : 9000
-    min : 500
+    max : 6000
+    min : 400
     range : 100 ,150 ,200

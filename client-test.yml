@@ -1,0 +1,5 @@
+sample:
+  properties:
+    max : 3000
+    min : 20
+    range : 100 ,150 ,200
